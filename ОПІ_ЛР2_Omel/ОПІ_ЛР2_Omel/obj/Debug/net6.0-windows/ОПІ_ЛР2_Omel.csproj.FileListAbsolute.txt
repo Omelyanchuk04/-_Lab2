@@ -1,0 +1,16 @@
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\bin\Debug\net6.0-windows\ОПІ_ЛР2_Omel.exe
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\bin\Debug\net6.0-windows\ОПІ_ЛР2_Omel.deps.json
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\bin\Debug\net6.0-windows\ОПІ_ЛР2_Omel.runtimeconfig.json
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\bin\Debug\net6.0-windows\ОПІ_ЛР2_Omel.dll
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\bin\Debug\net6.0-windows\ОПІ_ЛР2_Omel.pdb
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.Form1.resources
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.csproj.GenerateResource.cache
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.AssemblyInfoInputs.cache
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.AssemblyInfo.cs
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.dll
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\refint\ОПІ_ЛР2_Omel.dll
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.pdb
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ОПІ_ЛР2_Omel.genruntimeconfig.cache
+C:\Users\Олександр\Documents\GitHub\-_Lab2\ОПІ_ЛР2_Omel\ОПІ_ЛР2_Omel\obj\Debug\net6.0-windows\ref\ОПІ_ЛР2_Omel.dll
